@@ -56,20 +56,20 @@
       "title": "Raid Survivor",
       "description": "Survive for 3 minutes in Raid mode",
       "category": "RAID",
-      "tier": "B",
+      "tier": "C",
       "goal": 1,
       "progressType": "raidSurvive3",
-      "reward": 25
+      "reward": 500
     },
     {
       "id": "clear_stage_1",
       "title": "First Steps",
       "description": "Clear Stage 1 in Campaign mode",
       "category": "CAMPAIGN",
-      "tier": "B",
+      "tier": "C",
       "goal": 1,
       "progressType": "stageClear_1",
-      "reward": 25
+      "reward": 250
     },
     {
       "id": "clear_stage_2",
@@ -115,4 +115,3 @@
     "C": { "border": [100, 200, 100], "bg": [15, 25, 15], "label": "TIER C" }
   }
 }
-
