@@ -111,7 +111,8 @@
   "tierColors": {
     "S": { "border": [212, 175, 55], "bg": [30, 25, 10], "label": "TIER S" },
     "A": { "border": [255, 60, 60], "bg": [30, 15, 15], "label": "TIER A" },
-    "B": { "border": [60, 130, 255], "bg": [15, 20, 30], "label": "TIER B" }
+    "B": { "border": [60, 130, 255], "bg": [15, 20, 30], "label": "TIER B" },
+    "C": { "border": [100, 200, 100], "bg": [15, 25, 15], "label": "TIER C" }
   }
 }
 
