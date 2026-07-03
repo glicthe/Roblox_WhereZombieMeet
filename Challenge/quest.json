@@ -3,7 +3,7 @@
   "quests": [
     {
       "id": "clear_all_campaign",
-      "title": "Campaign Conqueror",
+      "title": "Campaign Conqueror Adi Jago",
       "description": "Complete all Campaign stages (Stage 1, 2, and Boss)",
       "category": "CAMPAIGN",
       "tier": "S",
