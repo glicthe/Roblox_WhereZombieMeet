@@ -100,6 +100,16 @@
       "goal": 1,
       "progressType": "raidJoin",
       "reward": 25
+    },                               
+    {                                 
+      "id": "Challenge Tubes",
+      "title": "Misi Spesial Dosen",
+      "description": "Kalahkan 10 zombie di mode cammpaign",
+      "category": "CAMPAIGN",
+      "tier": "C",
+      "goal": 10,
+      "progressType": "zombieKills",
+      "reward": 10
     }
   ],
   "dialogs": [
