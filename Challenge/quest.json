@@ -1,1 +1,117 @@
+{
+  "version": 1,
+  "quests": [
+    {
+      "id": "clear_all_campaign",
+      "title": "Campaign Conqueror",
+      "description": "Complete all Campaign stages (Stage 1, 2, and Boss)",
+      "category": "CAMPAIGN",
+      "tier": "S",
+      "goal": 3,
+      "progressType": "stageClear",
+      "reward": 100
+    },
+    {
+      "id": "speed_campaign",
+      "title": "Lethal Speed",
+      "description": "Clear the Campaign in under 10 minutes",
+      "category": "CAMPAIGN",
+      "tier": "S",
+      "goal": 1,
+      "progressType": "speedClear",
+      "reward": 100
+    },
+    {
+      "id": "defeat_raid_boss",
+      "title": "Raid Boss Hunter",
+      "description": "Defeat the Boss in Raid mode",
+      "category": "RAID",
+      "tier": "S",
+      "goal": 1,
+      "progressType": "raidBossDefeat",
+      "reward": 100
+    },
+    {
+      "id": "clear_stage_3",
+      "title": "Campaign Boss Slayer",
+      "description": "Clear Stage 3 (Boss Stage) in Campaign",
+      "category": "CAMPAIGN",
+      "tier": "A",
+      "goal": 1,
+      "progressType": "stageClear_3",
+      "reward": 50
+    },
+    {
+      "id": "kill_100_zombies",
+      "title": "Zombie Exterminator",
+      "description": "Eliminate 100 total zombies in Campaign mode",
+      "category": "CAMPAIGN",
+      "tier": "A",
+      "goal": 100,
+      "progressType": "zombieKills",
+      "reward": 50
+    },
+    {
+      "id": "survive_raid_3min",
+      "title": "Raid Survivor",
+      "description": "Survive for 3 minutes in Raid mode",
+      "category": "RAID",
+      "tier": "B",
+      "goal": 1,
+      "progressType": "raidSurvive3",
+      "reward": 25
+    },
+    {
+      "id": "clear_stage_1",
+      "title": "First Steps",
+      "description": "Clear Stage 1 in Campaign mode",
+      "category": "CAMPAIGN",
+      "tier": "B",
+      "goal": 1,
+      "progressType": "stageClear_1",
+      "reward": 25
+    },
+    {
+      "id": "clear_stage_2",
+      "title": "Pushing Forward",
+      "description": "Clear Stage 2 in Campaign mode",
+      "category": "CAMPAIGN",
+      "tier": "B",
+      "goal": 1,
+      "progressType": "stageClear_2",
+      "reward": 25
+    },
+    {
+      "id": "kill_25_zombies",
+      "title": "Zombie Cleaner",
+      "description": "Eliminate 25 zombies in Campaign mode",
+      "category": "CAMPAIGN",
+      "tier": "B",
+      "goal": 25,
+      "progressType": "zombieKills",
+      "reward": 25
+    },
+    {
+      "id": "join_raid",
+      "title": "New Challenger",
+      "description": "Join Raid mode for the first time",
+      "category": "RAID",
+      "tier": "B",
+      "goal": 1,
+      "progressType": "raidJoin",
+      "reward": 25
+    }
+  ],
+  "dialogs": [
+    "Hey friend, I have some missions for you.",
+    "The zombies out there are getting more ferocious and out of control.",
+    "Choose the missions you want from this list.",
+    "Complete your objectives, and I will reward you with handsome coins!"
+  ],
+  "tierColors": {
+    "S": { "border": [212, 175, 55], "bg": [30, 25, 10], "label": "TIER S" },
+    "A": { "border": [255, 60, 60], "bg": [30, 15, 15], "label": "TIER A" },
+    "B": { "border": [60, 130, 255], "bg": [15, 20, 30], "label": "TIER B" }
+  }
+}
 
